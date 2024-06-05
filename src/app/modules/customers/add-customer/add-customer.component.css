@@ -1,7 +1,11 @@
-.form-element{
-    width: 500px;
-  }
-  
-  .add-customer-container{
-    padding: 20px;
-  }
+mat-card {
+  padding: 16px;
+}
+
+.form-element {
+  width: 500px;
+}
+
+.add-customer-container {
+  padding: 20px;
+}
